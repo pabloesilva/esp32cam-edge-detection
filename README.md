@@ -44,7 +44,7 @@ Unlike standard camera examples, this project implements a custom video pipeline
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/pabloesilva/esp32cam-edge-detection.git](https://github.com/pabloesilva/esp32cam-edge-detection.git)
+    git clone https://github.com/pabloesilva/esp32cam-edge-detection.git
     ```
 2.  **Dependencies:**
     Install the following libraries in Arduino IDE or PlatformIO:
