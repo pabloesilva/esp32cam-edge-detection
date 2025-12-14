@@ -1,6 +1,6 @@
 # 1-Bit Camera: ESP32-CAM Edge Detection & Dithering
 
-![Project Banner](img\fig1.png)
+![Project Banner](img/fig1.png)
 *Figure 1: Comparison of the 4 visualization pipelines (Sobel-Threshold, Sobel-Bayer, Real-Threshold, Real-Bayer).*
 
 ## Overview
@@ -37,14 +37,14 @@ Unlike standard camera examples, this project implements a custom video pipeline
 | **Button** | Signal | **GPIO 13** | Input Pull-up |
 | **SD Card** | CLK/CMD/DAT | **14, 15, 2** | Internal slot usage |
 
-![Breadboard Setup](img\fig2.png)
+![Breadboard Setup](img/fig2.png)
 *Figure 2: Physical implementation on protoboard.*
 
 ## Installation
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/your-username/esp32cam-edge-detection.git](https://github.com/your-username/esp32cam-edge-detection.git)
+    git clone [https://github.com/pabloesilva/esp32cam-edge-detection.git](https://github.com/pabloesilva/esp32cam-edge-detection.git)
     ```
 2.  **Dependencies:**
     Install the following libraries in Arduino IDE or PlatformIO:
